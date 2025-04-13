@@ -46,15 +46,22 @@ WITH (
 Easier to query and report on, Clear separation of measures (fact) and descriptors
 ### Fact Table: FactSales
 •	SaleDateKey (FK to Date dimension)
+
 •	StoreKey (FK to Store dimension)
+
 •	CategoryKey (FK to Category dimension)
+
 •	VendorKey (FK to Vendor dimension)
+
 •	BottlesSold (Measure)
  ### Dimension Tables:
-•	DimDate → Date, Month, Year, Quarter
-•	DimStore → Store Number, Store Name, City
-•	DimCategory → Category Name
-•	DimVendor → Vendor Number, Vendor Name
+•	DimDate → Date, Month, Year, Quarter.
+
+•	DimStore → Store Number, Store Name, City.
+
+•	DimCategory → Category Name.
+
+•	DimVendor → Vendor Number, Vendor Name.
 
 ![image](https://github.com/user-attachments/assets/ae889a94-bcc0-423f-87f5-b021ad3fd951)
 
