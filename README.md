@@ -179,6 +179,49 @@ Order by ss.Total_bottles Desc
 ## Build Dashboard
 ![image](https://github.com/user-attachments/assets/b9c5e1d0-2260-4768-baef-1e7af6caa948)
 
+### 1.  Objective
+This report aims to analyze sales performance across stores, vendors, and product categories. It provides an overview of key metrics and insights to support decision-making and optimization strategies.
+### 2. Overview
+•	Total bottles sold: more than 200M units (period 2017-2023) and 31 million unit at the most recent year (2023)
+
+•	Number of Store: 2922 stores
+
+•	Number of Categories: 53
+
+•	Number of Vendor: 251
+
+•	Latest Year-over-year growth: +0,25% (2023) compared to the previous year (2022)
+
+•	Average growth of month: 0.2% (2023)
+
+### 3.  Insight from Dashboard
+a. Performance over time
+•	Sales showed a upward trend across months end of year (10,11,12)  and downward trend across months: 1,2
+
+•	Most sales are on weekdays, weekends only account for 1.15% of total sales (period 2017-2023)
+b. Top-performing
+•	Top 10  stores by sales: 
+
+![image](https://github.com/user-attachments/assets/7c20a03e-debd-4e23-859f-03d666ee8713)
+•	Category American Vodkas contributed the most to total sales (20.55%)
+
+•	Vendor Sazeac Company INC led in performance (sold 37,39M units across 2851 stores)
+c. Data quality
+•	33K bottles Sold were missing city record
+
+![image](https://github.com/user-attachments/assets/9143e0f7-c4af-4330-8d00-cc52cea24cf6)
+### 4. Recommendations
+•	Standardize city and store naming to avoid fragmented data (for example: OTTUMWA, OTUMWA)
+
+•	Focus on high-growth product categories for marketing and stocking.
+
+•	Closely monitor stores with declining sales trends
+
+
+
+
+
+
 
 
 
